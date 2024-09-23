@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://poxat.github.io/VRV/sitemap.VRV.gz
