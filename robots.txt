@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://poxat.csgad.com/nxJ/sitemap.xml.gz
